@@ -3,4 +3,4 @@
 
 
 ## 📊 GitHub Stats
-![YoyaPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyaPro&show_icons=true&theme=tokyonight)
+![YoyaPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyaPro&show_icons=true&theme=tokyonight&count_private=true)
